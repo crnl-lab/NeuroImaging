@@ -14,4 +14,4 @@ Bienvenue sur le site du Club des NeuroImageurs.
 
 Monthly meetings of neuroscientists who use or want to use neuroImaging tools. It's club organised and hosted at the CRNL (https://www.crnl.fr/) and open to everyone who wants to join and discuss.
 
-Archives of the presentations 2019 to 26 : OSF https://osf.io/sxkgq/overview
+Archives of the presentations 2019 to 26 : [OSF](https://osf.io/sxkgq/overview)
