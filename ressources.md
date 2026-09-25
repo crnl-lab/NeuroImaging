@@ -10,4 +10,3 @@ title: Ressources
 # Ressources
 
 - [FMRI PIPELINES FOR PREPROCESSING](https://blricrex.hypotheses.org/ressources/fmri/preprocessing)
-- [Nom de la ressource](https://exemple.org) — courte description
