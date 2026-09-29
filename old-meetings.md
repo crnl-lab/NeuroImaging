@@ -12,7 +12,7 @@ title: Old meetings
 
 Liste des réunions passées et présentations associées (PDF / PPT téléchargeables).
 
-- **26/09/26** — feedback from the OHBM 2026 conference, REMI’s network 10th anniversary, choosing a new website for the Club & sharing useful resources for the Club (e.g. Elements of fMRI analysis by Tor Wager) — [PDF](presentations/2026_09_club_NeuImg_65_v1.pdf)
+- **26/09/26** — feedback from the OHBM 2026 conference, REMI’s network 10th anniversary, news about the 7T scanner soon in Lyon, choosing a new website for the Club, sharing useful resources for the Club (e.g. Elements of fMRI analysis by Tor Wager) — [PDF](presentations/2026_09_club_NeuImg_65_VF.pdf)
 
 older meetings : [OSF](https://osf.io/sxkgq/overview)
 
