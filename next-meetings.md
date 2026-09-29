@@ -4,7 +4,7 @@ title: Next meetings
 ---
 <img src="presentations/logo.jpg" alt="Logo NeuroImaging" width="150">
 
-[Accueil](index.md) · [Next meetings](next-meetings.md) · [Old meetings](old-meetings.md) · [Ressources](ressources.md)
+[Accueil](index.md) · [Next meetings](next-meetings.md) · [Past meetings](past-meetings.md) · [Ressources](ressources.md)
 
 ---
 
