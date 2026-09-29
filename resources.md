@@ -3,7 +3,7 @@ layout: default
 title: Ressources
 ---
 
-[Accueil](index.md) · [Next meetings](next-meetings.md) · [Past meetings](past-meetings.md) · [Ressources](ressources.md)
+[Accueil](index.md) · [Next meetings](next-meetings.md) · [Past meetings](past-meetings.md) · [Resources](resources.md)
 
 ---
 
