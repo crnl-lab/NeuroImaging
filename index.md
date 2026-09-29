@@ -6,12 +6,12 @@ title: NeuroImaging
 
 # NeuroImaging
 
-[Next meetings](next-meetings.md) · [Old meetings](old-meetings.md) · [Ressources](ressources.md)
+[Next meetings](next-meetings.md) · [Past meetings](Pas-meetings.md) · [Ressources](ressources.md)
 
 ---
 
-Bienvenue sur le site du Club des NeuroImageurs.
+Welcome on the website of the CRNL NeuroImaging Club!
 
-Monthly meetings of neuroscientists who use or want to use neuroImaging tools. It's club organised and hosted at the [CRNL](https://www.crnl.fr/) and open to everyone who wants to join and discuss.
+Monthly meetings of neuroscientists who use or want to use neuroImaging tools. It's a club organised and hosted at the [CRNL](https://www.crnl.fr/) and open to everyone who wants to join and discuss.
 
-Archives of the presentations 2019 to 26 : [OSF](https://osf.io/sxkgq/overview)
+Archives of the presentations 2019 to 2026: [OSF](https://osf.io/sxkgq/overview)
