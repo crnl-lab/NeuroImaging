@@ -10,7 +10,8 @@ title: Next meetings
 
 # Next meetings
 
-n°66. 16 Oct. 2026: Céline Provins, MRIQC & Defacing, Switzerland
+n°66. 16 Oct. 2026: 10H30, salle F22 du NeuroCampus ou en [visio](https://visio.numerique.gouv.fr/kvx-fogn-rss) (lien permanent pour 2026-2027).
+[Céline Provins](https://celprov.github.io/) viendra nous parler de MRIQC & de defacing, entre autres.
 
 n°67. 27 Nov. 2026: Hélène Ratiney, Creatis Lab
 
