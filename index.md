@@ -6,7 +6,7 @@ title: NeuroImaging
 
 # NeuroImaging
 
-[Next meetings](next-meetings.md) · [Past meetings](past-meetings.md) · [Ressources](ressources.md)
+[Next meetings](next-meetings.md) · [Past meetings](past-meetings.md) · [Resources](resources.md)
 
 ---
 
