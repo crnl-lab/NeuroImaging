@@ -1,6 +1,5 @@
-# NeuroImaging
-wiki public du club
+# CRNL NeuroImaging Club
+Website of the CRNL NeuroImaging club meetings
 
 
-Pour ajouter une présentation : déposez le fichier dans le dossier `presentations/`, puis ajoutez une ligne ci-dessus avec un lien relatif vers ce fichier.
-
+To add a presentation: place the file in the `presentations/` folder, then add a line above it containing a relative link to that file.
