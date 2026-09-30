@@ -12,8 +12,7 @@ title: Next meetings
 [visio](https://visio.numerique.gouv.fr/kvx-fogn-rss) (lien permanent pour 2026-2027)
 10H30
 
-n°66. 16 Oct. 2026:  [Céline Provins](https://celprov.github.io) : MRIQC, defacing, ...
-      salle F22 du NeuroCampus
+n°66. 16 Oct. 2026:  [Céline Provins](https://celprov.github.io): "Characterizing and improving the reliability of brain connectivity extracted with MRI". Room F22, NeuroCampus and on visio
 
 n°67. 27 Nov. 2026: Hélène Ratiney, Creatis Lab
 
