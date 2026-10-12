@@ -16,7 +16,7 @@ n°66. 16 Oct. 2026:  [Céline Provins](https://celprov.github.io): "Characteriz
 
 n°67. 27 Nov. 2026: Hélène Ratiney, Creatis Lab
 
-n°68. 18 Dec. 2026: Laurie-Anne Sapey-Triomphe for feedbacks on a upcoming study about ROIs & whole brain analysis on morphometry MRI scans.
+n°68. 18 Dec. 2026: Laurie-Anne Sapey-Triomphe (CRNL, CAP team) for feedbacks on a upcoming study about ROIs & whole brain analysis on morphometry MRI scans.
 
 n°69. 22 Jan. 2027: special meeting for new students & new colleagues @CRNL
 
@@ -26,7 +26,7 @@ n°71. 26 March 2027
 
 n°72. 30 April 2027
 
-n°73. 28 May 2027
+n°73. 28 May 2027: Fabien Schneider (TAPE Unit, Université Jean Monnet, St. Étienne) "Equivalence of tbfMRI and rsfMRI in Evaluating Language Lateralization in Patients with intractable Temporal Lobe Epilepsy"
 
 n°74. 25 June 2027
 
