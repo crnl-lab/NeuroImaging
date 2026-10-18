@@ -10,7 +10,7 @@ title: Past meetings
 
 # Past meetings
 
-List of past meetings and associated presentations (downloadable PDF / PPT files).
+List of past meetings and associated presentations (downloadable slides).
 
 - **2026/10** - [Céline Provins](https://celprov.github.io): "Characterizing and improving the reliability of brain connectivity extracted with MRI" — [PDF](presentations/2026_10_club_NeuImg_66_Celine_Provins.pdf) & [SuppData](presentation/2026_10_club_NeuImg_66_Celine_Provins_SuppData_ISMRM24.pdf)
 
