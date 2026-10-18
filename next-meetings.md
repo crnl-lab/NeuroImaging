@@ -12,8 +12,6 @@ title: Next meetings
 [visio](https://visio.numerique.gouv.fr/kvx-fogn-rss) (lien permanent pour 2026-2027)
 10H30
 
-n°66. 16 Oct. 2026:  [Céline Provins](https://celprov.github.io): "Characterizing and improving the reliability of brain connectivity extracted with MRI". Room F22, NeuroCampus and on visio
-
 n°67. 27 Nov. 2026: [Hélène Ratiney](https://www.creatis.insa-lyon.fr/site/fr/users/ratiney) (Creatis Lab, Lyon)
 
 n°68. 18 Dec. 2026: [Laurie-Anne Sapey-Triomphe](https://www.la-sapeytriomphe.fr/) (CRNL, CAP team) for feedbacks on a upcoming study about "structural correlates of hierarchical predictive processing in autism".
