@@ -9,8 +9,8 @@ title: Next meetings
 ---
 
 # Next meetings 
-[visio](https://visio.numerique.gouv.fr/kvx-fogn-rss) (lien permanent pour 2026-2027)
-10H30
+[visio](https://visio.numerique.gouv.fr/kvx-fogn-rss) (permanent link for 2026-2027)
+10:30am
 
 n°67. 27 Nov. 2026: [Hélène Ratiney](https://www.creatis.insa-lyon.fr/site/fr/users/ratiney) (Creatis Lab, Lyon)
 
