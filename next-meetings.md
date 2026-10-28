@@ -15,7 +15,7 @@ n°67. 27 Nov. 2026: [Hélène Ratiney](https://www.creatis.insa-lyon.fr/site/fr
 
 n°68. 18 Dec. 2026: [Laurie-Anne Sapey-Triomphe](https://www.la-sapeytriomphe.fr/) (CRNL, CAP team) for feedbacks on a upcoming study about "structural correlates of hierarchical predictive processing in autism".
 
- -- 08 Jan. 2027 : Kick-off meeting for the 7 Tesla scanner in Lyon -- 
+ -- 08 Jan. 2027: Scientific symposium on 7-tesla MRI scanner, Lyon -- 
 
 n°69. 22 Jan. 2027: special meeting for new students & new colleagues @CRNL in collab. with the IT department
 
